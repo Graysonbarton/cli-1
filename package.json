@@ -90,7 +90,7 @@
 	},
 	"dependencies": {
 		"chalk": "^5.4.0",
-		"follow-redirects": "^1.15.9",
+		"follow-redirects": "^1.15.11",
 		"js-yaml": "^4.1.0",
 		"jsonc-parser": "^3.2.0",
 		"ncp": "^2.0.0",
