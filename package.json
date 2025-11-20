@@ -91,7 +91,7 @@
 	"dependencies": {
 		"chalk": "^5.4.0",
 		"follow-redirects": "^1.15.9",
-		"js-yaml": "^4.1.0",
+		"js-yaml": "^4.1.1",
 		"jsonc-parser": "^3.2.0",
 		"ncp": "^2.0.0",
 		"node-pty": "^1.0.0",
